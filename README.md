@@ -4,7 +4,7 @@ Neste repositório, disponibilizo estudos sobre aplicação de machine learning 
 ### Estudo00 - Modelo de machine learning para previsão de rebaixamento do time na Série A
 OBS: Os notebooks estão comentados em língua espanhola.
 
-Atualmente, esse estudo contém três modelos (e três notebooks):
+Atualmente, esse estudo contém três modelos - e três notebooks:
 
 i) modelo geral, ii) modelo com escalonamento Standard Scaling e iii) modelo com escalonamento MinMax Scaling.
 
