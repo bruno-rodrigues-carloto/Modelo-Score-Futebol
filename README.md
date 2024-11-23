@@ -4,9 +4,7 @@ Neste repositório, disponibilizo estudos sobre aplicação de machine learning 
 ### Estudo00 - Modelo de machine learning para previsão de rebaixamento do time na Série A
 Atualmente, esse estudo contém três modelos:
 
-i) modelo geral;
-ii) modelo com escalonamento Standard Scaling;
-iii) modelo com escalonamento MinMax Scaling.
+i) modelo geral, ii) modelo com escalonamento Standard Scaling e iii) modelo com escalonamento MinMax Scaling.
 
 A ideia de desenvolvimento segue de um modelo bastante genérico, sem tratamento, para um cada vez mais tratado.
 
